@@ -1,0 +1,43 @@
+Papers on Blockchain and Security
+
+Original Bitcoin whitepaper
+https://bitcoin.org/bitcoin.pdf
+
+View of Blockchain from a textbook Cybersecurity context (Confidentiality, Integrity, Availabilty)
+https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/Technology
+/IE_C_BlockchainandCyberPOV_0417.pdf
+
+Blockchain in Detail from UC Berkley
+
+http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
+
+Sans Institute paper describing a forensics process in detail (you can just skim this one)
+
+https://www.sans.org/reading-room/whitepapers/forensics/forensic-bitcoin-cryptocurrency-36437
+
+
+Articles
+
+IBM on the difference between blockchain and the currencies that run on top of it
+
+https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-bitcoin-and-blockchain-for-business/
+
+Bitcoin under the hood (covers some of the same details as the Berkley paper)
+
+http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html
+
+
+
+Proof of Stake vs. Proof of Work: Developments in the use of EOS and IPFS for File-Sharing
+
+https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c
+
+https://steemit.com/eos/@trogdor/eos-vs-ethereum-for-dummies
+
+https://bitcoinexchangeguide.com/ethereum-vs-eos/
+
+https://captainaltcoin.com/ethereum-vs-eos/
+
+https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
+
+https://www.coindesk.com/ethereum-meets-zcash-why-ipfs-plans-a-multi-blockchain-browser/
