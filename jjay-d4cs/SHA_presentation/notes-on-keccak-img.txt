@@ -1,0 +1,5 @@
+Input is padded by padding function
+This is split into chunks of r bits
+Each of these is fed into the sponge function
+In the "absorbing phase" bits are XORed with the first 1088 bits of 1600 bits of zeros and scrambled by the f function for 24 rounds
+The result is "squeezed out" by taking out the first r bits of the absorbing phase output and further truncated to 256 bits
